@@ -25,6 +25,8 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
+<html>
+<body>
 <table border="2" cellspacing="15" cellpadding="5">
     <caption>SLOT TIMETABLE-NIKILA D(24900699)</caption>
     <tr bgcolor="yellow">
@@ -116,6 +118,8 @@ Execute the program using runserver command.
             <td>MENTOR MEET</td>
         </tr>
 </table>
+</html>
+</body>
 ```
 
 ## OUTPUT
